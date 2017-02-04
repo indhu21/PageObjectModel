@@ -1,0 +1,15 @@
+.classpath
+
+.settings
+
+reports
+
+target
+
+test-output
+
+.project
+/target/
+/target/
+/target/
+/target/
