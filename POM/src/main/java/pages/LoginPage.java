@@ -18,7 +18,7 @@ public class LoginPage extends LeafTapsWrappers  {
 		}
 	}
 
-	// Enter the user name in this Login Page
+	// Enter UserName
 	public LoginPage enterUserName(String userName){
 		enterById(prop.getProperty("Login.UserName.Id"), userName);
 		return this;
